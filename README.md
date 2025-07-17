@@ -4,7 +4,7 @@
 
 ## it's stupid. it's pointless. but at least it does something.
 
-- offical tutorial: (in the making)
+- offical tutorial: (not here, this version was discontinued)
 
 - trng.a is for "advanced" functions and calculations. made by ChatGPT.
 
