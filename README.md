@@ -4,6 +4,8 @@
 
 ## it's stupid. it's pointless. but at least it does something.
 
+- offical tutorial: (in the making)
+
 - trng.a is for "advanced" functions and calculations. made by ChatGPT.
 
 - trng.b is for "basic" functions and calculations. made entirely by OutOfIQ (me)
