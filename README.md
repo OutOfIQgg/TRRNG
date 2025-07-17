@@ -4,13 +4,7 @@
 
 ## it's stupid. it's pointless. but at least it does something.
 
-- offical tutorial: (not here, this version was discontinued)
-
-- trng.a is for "advanced" functions and calculations. made by ChatGPT.
-
-- trng.b is for "basic" functions and calculations. made entirely by OutOfIQ (me)
-
-- trng.e is for "expermental" functions and calculations. 1 was made by ChatGPT (trng.e.grn()), 1 was made by me (trng.e.cf())
+- offical tutorial: (in the making)
 
 ---
 
@@ -37,14 +31,14 @@
 
   - bool = the boolean you wanna coin flip into either true or false
 
-  - how it works: in trng.b: love.math.random(1, 10) if it's 5 or below, it's false. if it's 6 or beyond, it's true.
-              in trng.a: math.
-              in trng.e: kinda like trng.b.grn(min, max, mloops)
+  - how it works: love.math.random(1, 10) if it's 5 or below, it's false. if it's 6 or beyond, it's true.
 
   - pros: idk
 
   - cons: idk
 
 pls support me on ko-fi (if you can. even $1 is more than enough). I had to wake up 7 more braincells and too many hours to count.
+
+# KNOW YOUR RIGHTS! contact me if there are errors or issues with the system
 
 THIS PLUGIN IS STILL IN ALPHA STAGES UNTIL ANY AND ALL GLITCHES ARE RESOLVED
