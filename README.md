@@ -4,10 +4,6 @@
 
 ## it's stupid. it's pointless. but at least it does something.
 
-- offical tutorial: (in the making)
-
----
-
 1. trng.a/b/e.grn(min. max, mloops)
 
   - min = your minimum number
