@@ -4,7 +4,7 @@
 
 ## it's stupid. it's pointless. but at least it does something.
 
-1. trng.a/b/e.grn(min. max, mloops)
+1. trng.grn(min. max, mloops)
 
   - min = your minimum number
 
@@ -23,7 +23,7 @@
 
 ---
 
-2. trng.a/b/e.cf(bool)
+2. trng.cf(bool)
 
   - bool = the boolean you wanna coin flip into either true or false
 
